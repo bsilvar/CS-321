@@ -1,0 +1,13 @@
+Using a level 2 cache of 1k2k will take around
+35 seconds to complete. A cache of 1k5k will take 
+around 64 seconds to complete. 
+
+When compared to the 1k2k sample output, 
+my global references are off by 1. 
+The 1st-level references are off by 1. 
+The 2nd-level references are off by 2.
+
+When compared to the 1k5k sample output, 
+my global references are off by 1.
+The 1st-level was off by 2.
+The 2nd-level was off by 2.
